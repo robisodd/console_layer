@@ -1,0 +1,31 @@
+{
+    "appKeys": {
+        "KEY_ERR": 2,
+        "KEY_MSG": 1,
+        "KEY_OPEN_CHANNEL": 3,
+        "KEY_SEND_TEXT": 4,
+        "KEY_SYS": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "robisodd",
+    "enableMultiJS": false,
+    "longName": "RTC Chat",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "RTC Chat",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "5ae58854-c1de-4a6c-8f63-719bae5438cd",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
